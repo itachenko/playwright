@@ -8,9 +8,6 @@ export const testSelectors = {
       todoEdit: ".edit",
       todoDelete: ".destroy",
       todoComplete: ".toggle",
-      // todo: {
-      //   label: "label",
-      // },
     },
   },
   footer: {
